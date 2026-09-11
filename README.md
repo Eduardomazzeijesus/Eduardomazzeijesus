@@ -4,7 +4,7 @@
 
 ### 💻 Estudante de Desenvolvimento de Sistemas
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Desenvolvedor+em+formação;Sempre+aprendendo+algo+novo;Buscando+minha+primeira+oportunidade!" alt="Typing SVG" />
+font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Desenvolvedor+em+formação;Sempre+aprendendo+algo+novo;Buscando+minha+primeira+oportunidade!" alt="Typing SVG" />
 
 <br>
 
