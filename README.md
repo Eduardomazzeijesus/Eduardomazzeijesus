@@ -4,11 +4,9 @@
 
 ### 💻 Estudante de Desenvolvimento de Sistemas
 
-font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Desenvolvedor+em+formação;Sempre+aprendendo+algo+novo;Buscando+minha+primeira+oportunidade!" alt="Typing SVG" />
-
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasasantos)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardomazzeijesus)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusameduardo@gmail.com)
 
 </div>
